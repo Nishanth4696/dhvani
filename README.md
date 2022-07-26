@@ -1,6 +1,6 @@
 # Screenshots of this project
-## For User
-User have to Select Item for Inspection
+## For Login
+User can Sign-in or Signup
 ![User visit public and Home page](https://www.linkpicture.com/q/Image1_7.png)
 
 Inspection Page
