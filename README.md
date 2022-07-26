@@ -2,7 +2,9 @@
 ## For Login
 User can Sign-in or Signup
 ![User visit public and Home page](https://www.linkpicture.com/q/Image1_7.png)
-The flow diagram demonstrate how the login/signup flow works.<br>
+The flow diagram demonstrate how the login/signup flow works.
+
+
 Upload Models
 ![User can sign in or sign up](https://www.linkpicture.com/q/Image2_8.png)
 
