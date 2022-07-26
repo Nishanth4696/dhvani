@@ -84,7 +84,7 @@ User have to Select Item for Inspection
 ![User visit public and Home page](https://igenie365-my.sharepoint.com/:u:/r/personal/nishanth_kr_igenie_ai/_layouts/15/Doc.aspx?sourcedoc=%7B57d07c70-3a56-4f27-8764-8379624ddeb4%7D&action=embedview)
 
 Inspection Page
-![User can sign in or sign up](https://www.linkpicture.com/q/Screenshot-from-2022-02-04-16-27-19.png)
+![User can sign in or sign up](https://igenie365-my.sharepoint.com/:u:/r/personal/nishanth_kr_igenie_ai/_layouts/15/Doc.aspx?sourcedoc=%7B57d07c70-3a56-4f27-8764-8379624ddeb4%7D&action=embedview)
 
 Calibrate Page where you can check whether the camera is working fine
 ![After signing in user can go to account route](https://www.linkpicture.com/q/Screenshot-from-2022-02-04-16-27-11-1.png)
