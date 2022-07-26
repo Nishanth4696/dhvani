@@ -11,7 +11,7 @@ The above diagram covers all Uploaders Models like <b>Audio, Video, Image, Blog,
 
 
 #### Search<br>
-![Search model](https://www.linkpicture.com/q/Image3_6.png)
+![Search model](https://www.linkpicture.com/q/Image3_6.png)<br>
 The above diagram demonstrate the workflow of search pipeline. It send "tags" as a request and gets back the response from the server.
 
 
