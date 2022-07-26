@@ -7,8 +7,8 @@ The flow diagram demonstrate how the login/signup flow works.
 
 #### Upload Models <br>
 ![Uploader Models](https://www.linkpicture.com/q/Image2_8.png)
-![Upload Blog/Chat](https://www.linkpicture.com/q/Image3_6.png)
-The above diagram covers all <b>Uploaders Models</b> like Audio, Video, Image, Blog, and Chat which accepts both filetype and link.
+![Upload Blog/Chat](https://www.linkpicture.com/q/Image3_6.png)<br>
+The above diagram covers all Uploaders Models like <b>Audio, Video, Image, Blog, and Chat</b> which accepts both filetype and link.
 
 
 
