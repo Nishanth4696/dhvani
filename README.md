@@ -1,5 +1,4 @@
-# Screenshots of this project
-## For Login
+# Block Diagrams
 
 #### Login Workflow
 ![User Login Workflow](https://www.linkpicture.com/q/Image1_7.png)
