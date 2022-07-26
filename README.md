@@ -2,14 +2,15 @@
 ## For Login
 
 #### Login Workflow
-![User visit public and Home page](https://www.linkpicture.com/q/Image1_7.png)
+![User Login Workflow](https://www.linkpicture.com/q/Image1_7.png)
 The flow diagram demonstrate how the login/signup flow works.
 
 #### Upload Models <br>
-![User can sign in or sign up](https://www.linkpicture.com/q/Image2_8.png)
+![Uploader Models](https://www.linkpicture.com/q/Image2_8.png)
+![Upload Blog/Chat](https://www.linkpicture.com/q/Image3_6.png)
+The above diagram covers all <b>Uploaders Models</b> like Audio, Video, Image, Blog, and Chat which accepts both filetype and link.
 
-Calibrate Page where you can check whether the camera is working fine
-![After signing in user can go to account route](https://www.linkpicture.com/q/Image3_6.png)
+
 
 Report Page where you can see the details of the Item and its status
 ![After signing in user can go to account route](https://www.linkpicture.com/q/Image4_6.png)
