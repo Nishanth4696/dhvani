@@ -12,7 +12,7 @@ The above diagram covers all Uploaders Models like <b>Audio, Video, Image, Blog,
 
 
 #### Search<br>
-Report Page where you can see the details of the Item and its status
-![After signing in user can go to account route](https://www.linkpicture.com/q/Image3_6.png)
+![Search model](https://www.linkpicture.com/q/Image3_6.png)
+The above diagram demonstrate the workflow of search pipeline. It send "tags" as a request and gets back the response from the server.
 
 
