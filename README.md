@@ -81,7 +81,7 @@ $ npm run build // this will build the server code to es5 js codes and generate 
 # Screenshots of this project
 ## For User
 User have to Select Item for Inspection
-![User visit public and Home page](https://igenie365-my.sharepoint.com/:u:/r/personal/nishanth_kr_igenie_ai/_layouts/15/Doc.aspx?sourcedoc=%7B57d07c70-3a56-4f27-8764-8379624ddeb4%7D&action=embedview)
+![User visit public and Home page](https://www.linkpicture.com/q/download_190.png)
 
 Inspection Page
 ![User can sign in or sign up](https://igenie365-my.sharepoint.com/:u:/r/personal/nishanth_kr_igenie_ai/_layouts/15/Doc.aspx?sourcedoc=%7B57d07c70-3a56-4f27-8764-8379624ddeb4%7D&action=embedview)
